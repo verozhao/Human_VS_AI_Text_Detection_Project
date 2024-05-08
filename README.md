@@ -11,7 +11,7 @@ This project aims to enhance the detection of AI-generated text by leveraging ad
 * License
   
 ## Motivation:
-AI-generated content (AIGC) is revolutionizing our world, becoming an increasingly pivotal element in our daily lives. Since ChatGPT's debut in November 2022, leading tech companies have ceaselessly showcased the astonishing capabilities of AIGC, pushing boundaries beyond text and images to video. Yet, its rapid growth brings ethical concerns, notably in authorship and creativity. The increasing reliance on AIGC, particularly in AI-generated text in education, risks impairing students' writing development and compromising future creativity and personalization. While numerous AI text detection applications and websites exist, their accuracy in identifying AI-generated content is not always reliable. Thus, we are interested in developing a more precise classification model. Motivation}
+AI-generated content (AIGC) is revolutionizing our world, becoming an increasingly pivotal element in our daily lives. Since ChatGPT's debut in November 2022, leading tech companies have ceaselessly showcased the astonishing capabilities of AIGC, pushing boundaries beyond text and images to video. Yet, its rapid growth brings ethical concerns, notably in authorship and creativity. The increasing reliance on AIGC, particularly in AI-generated text in education, risks impairing students' writing development and compromising future creativity and personalization. While numerous AI text detection applications and websites exist, their accuracy in identifying AI-generated content is not always reliable. Thus, we are interested in developing a more precise classification model.
 
 ## Methodology
 ### Dataset Preparation
