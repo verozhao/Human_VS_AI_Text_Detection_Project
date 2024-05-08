@@ -1,4 +1,4 @@
-# Huamn vs. AI-Generated Text Detection Project
+# Human vs. AI-Generated Text Detection Project
 ## Project Overview
 This project aims to enhance the detection of AI-generated text by leveraging advanced machine learning models and comparing them against existing approaches. We focus on identifying and improving upon the limitations of current models by introducing a superior model architecture that incorporates the latest advancements in neural networks and natural language processing (NLP).
 
