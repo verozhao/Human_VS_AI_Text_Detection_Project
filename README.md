@@ -47,9 +47,9 @@ To set up this project locally for development and testing purposes, follow thes
 
 ## Contributing
 Team Members:
-Veronica Zhao
-Yanchen Zhou
-Sherry Liu
+Veronica Zhao （The implementation of Vanilla Neural Networks, Feedforward Neural Networks, Convoluntional Neural Networks.) 
+Yanchen Zhou（The implementation of Long Short-Term Memory.) 
+Sherry Liu （The implementation of DistilBert.) 
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
