@@ -34,12 +34,24 @@ These datasets were merged, split for training (80%) and testing (20%), and furt
 We used the GEMINI PRO LLM DAIGT Dataset and TweepFake, creating a mixed test set to evaluate the generalization capability of our models across different AI-generated texts.
 
 ## Results
+For the first round of the model performance competition, we ranked their test accuracy on HC3 and DAIGT V2 datasets, which is also their training datasets. And chose the first four candidates: DistilBERT, RoBERTa, AlBERT, and LSTM for the next competition on their generalizability on other test datasets.
 
 ![download (4)](https://github.com/SherryKu/Human_VS_AI_Text_Detection_Project/assets/149217676/efe92eb5-a5c1-4ee2-92fd-ec428c6e912e)
 
+We combined Gemini and Tweepfake datasets to test the generalizability of DistilBERT, RoBERTa, AlBERT, and LSTM, found out the generalizability of LSTM is very unsatisfying, out of the game.
+
 ![download (5)](https://github.com/SherryKu/Human_VS_AI_Text_Detection_Project/assets/149217676/c9586235-cebb-4f27-9fc1-296993fe5267)
 
+For the final competition of model performances, we used another HC3-Chinese dataset to test their generalizability, all of them are very low at test accuracy due to the training language being English and the test language being different. For future work, consider using multi-language pre-trained model to enhance the robustness of the model's generalizability.
+
 <img width="684" alt="Screenshot 2024-05-08 at 05 45 29" src="https://github.com/SherryKu/Human_VS_AI_Text_Detection_Project/assets/149217676/3a0a9c83-1d10-4b4c-822d-5b879631960d">
+
+**Future works:**
+
+Explore broader model architectures, generate new datasets, and increase computational efficiency.
+Enhancing the models' capabilities to handle diverse and multilingual datasets to ensure broader applicability and robustness.
+Emphasis on developing detectors that can evolve with advancing AI capabilities.
+
 
 ## Installation
 
