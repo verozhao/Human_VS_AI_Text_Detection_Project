@@ -35,6 +35,12 @@ We used the GEMINI PRO LLM DAIGT Dataset and TweepFake, creating a mixed test se
 
 ## Results
 
+![download (4)](https://github.com/SherryKu/Human_VS_AI_Text_Detection_Project/assets/149217676/efe92eb5-a5c1-4ee2-92fd-ec428c6e912e)
+
+![download (5)](https://github.com/SherryKu/Human_VS_AI_Text_Detection_Project/assets/149217676/c9586235-cebb-4f27-9fc1-296993fe5267)
+
+<img width="684" alt="Screenshot 2024-05-08 at 05 45 29" src="https://github.com/SherryKu/Human_VS_AI_Text_Detection_Project/assets/149217676/3a0a9c83-1d10-4b4c-822d-5b879631960d">
+
 ## Installation
 
 To set up this project locally for development and testing purposes, follow these steps:
@@ -49,7 +55,7 @@ To set up this project locally for development and testing purposes, follow thes
 Team Members:
 Veronica Zhao （The implementation of Vanilla Neural Networks, Feedforward Neural Networks, Convoluntional Neural Networks.) 
 Yanchen Zhou（The implementation of Long Short-Term Memory.) 
-Sherry Liu （The implementation of DistilBert.) 
+Sherry Liu （The implementation of DistilBert, RoBERTa, AlBERT) 
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
